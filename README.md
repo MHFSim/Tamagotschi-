@@ -6,9 +6,11 @@ Ein virtuelles Haustier im Browser – mit Felix als Spielfigur. Felix schlüpft
 
 ## Spielen
 
-Einfach `index.html` im Browser öffnen – keine Installation, läuft auch offline.
+👉 **[Jetzt spielen](https://mhfsim.github.io/Tamagotschi-/)**
+
+Oder einfach `index.html` im Browser öffnen – keine Installation, läuft auch offline.
 Mit GitHub Pages (Settings → Pages → Branch `main`, Ordner `/`) ist es unter
-`https://mhfsim.github.io/tamagotschi-/` direkt spielbar.
+`https://mhfsim.github.io/Tamagotschi-/` direkt spielbar.
 
 ## Features
 
